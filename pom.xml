@@ -46,6 +46,7 @@
         <dependency>
             <groupId>org.springframework.data</groupId>
             <artifactId>spring-data-rest-hal-browser</artifactId>
+            <version>3.5.1</version>
         </dependency>
 
         <!-- Spring Security -->
@@ -63,6 +64,7 @@
         <dependency>
             <groupId>org.thymeleaf.extras</groupId>
             <artifactId>thymeleaf-extras-springsecurity4</artifactId>
+            <version>3.0.4.RELEASE</version>
         </dependency>
 
         <!-- Spring MVC -->
